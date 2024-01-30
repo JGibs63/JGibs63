@@ -1,4 +1,4 @@
-### <img width="1000" height="500" alt="Make your README" src="https://github.com/JGibs63/JGibs63/assets/119522437/fb49f718-8b1f-4fe2-b031-def57bb0ec0f">
+### <img width="1000" height="400" alt="Make your README" src="https://github.com/JGibs63/JGibs63/assets/119522437/fb49f718-8b1f-4fe2-b031-def57bb0ec0f">
 
 
 I am a data analyst specializing in uncovering meaningful insights from complex datasets, focusing on the intricate details that drive data-driven decision-making. My expertise lies in data cleaning, statistical analysis, and developing predictive models to extract valuable information. I like to play a crucial role in the backend processes, ensuring data quality, and providing actionable insights that empower the decision-makers within the organization.
