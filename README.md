@@ -1,11 +1,18 @@
-### Hi there 👋
+### <img width="1000" height="500" alt="Make your README" src="https://github.com/JGibs63/JGibs63/assets/119522437/fb49f718-8b1f-4fe2-b031-def57bb0ec0f">
+
+
+I am a data analyst specializing in uncovering meaningful insights from complex datasets, focusing on the intricate details that drive data-driven decision-making. My expertise lies in data cleaning, statistical analysis, and developing predictive models to extract valuable information. I like to play a crucial role in the backend processes, ensuring data quality, and providing actionable insights that empower the decision-makers within the organization.
+
+<H2>Most Used Languages</H2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGibs63&layout=compact)
 
 <!--
 **JGibs63/JGibs63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: **
 
-- 🔭 I’m currently working on ...
+Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGibs63)](https://github.com/anuraghazra/github-readme-stats)- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
